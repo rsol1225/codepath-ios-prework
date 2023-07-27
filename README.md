@@ -1,8 +1,8 @@
-# Prework - *Change Background App*
+# Prework - *Background Color Changing App*
 
 Submitted by: **Roma Solapurkar**
 
-**Name of your app** is an app that changes the color of the background to a random color.
+**Background Color CHanging App** is an app that... changes the background color and has some introductory information about myself!
 
 Time spent: **20** hours spent in total
 
@@ -10,43 +10,42 @@ Time spent: **20** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ X] Users are see a screen with three labels and a button
+- [X ] Users are see a screen with three labels and a button
 - [ X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/eurjRw4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
+GIF created with ...  Kap
+<!-- 
 [Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
-
 Instagram:
--Stories
--Close friends
+-capturing in real-time with stories
+-messaging and sharing content
+-fun filters
+
+BeReal:
+-capturing content during a random time, seems more authentic
+-love the ability to react 
 
 Snapchat:
--Multiple private stories
--Fun filters
+-capturing photos with fun filters in real time or not
+-fun filters
 
-Linkedin:
--Post about accomplishments
--Able to interact with recruiters
+All these social media platforms have a lot in common, they capture content and share it with their friends. It shows that there needs to be tremendous engagement for apps to succeed. I use all of those platforms since they allow me to connect with people, react, etc. even if I haven't seen them in a long time. An idea I have is a to-do list app, where you can capture a photo while your doing a task and share that you've completed a task with your close friends and family. 
 
-
-Some brainstorming ideas I have is stories, I love that feature about snapchat and instagram because you can share your life without sharing having it be permanent. Another part I love is close friends/private story, where I can connect with people but also keep my life private.
-
-If I were to create an app, I would like it to be simpler since there is so much information and it can sometimes feel overwhelming. I would make sure that I have a priority list, I would to have a model where people can endorse nonprofit organizations. My general theme would be sharing life events and having a responsibility to give back to the community. 
 ## Notes
 
 Describe any challenges encountered while building the app.
-
-Some difficulties I had were with the Kap app, it kept crashing. I also want to mention that the video 
+Some challenges I encountered while bringing the app had to do with what was happening when I reopened the app in a new repository, the app would stop working. Another challenge I encountered was connecting the UI logic to the button, for some reason the assistant wouldn't open the viewer controller file alongside the main file, so I had to watch more videos. I rebuilt this app about 5 times due to the repository issue, and that made me understand this project a lot more. 
 
 ## License
 
