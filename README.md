@@ -2,7 +2,7 @@
 
 Submitted by: **Roma Solapurkar**
 
-**Background Color CHanging App** is an app that... changes the background color and has some introductory information about myself!
+**Background Color Changing App** is an app that... changes the background color and has some introductory information about myself!
 
 Time spent: **20** hours spent in total
 
@@ -15,9 +15,9 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the background changing: https://imgur.com/a/mgKBSdW 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/mgKBSdW' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Kap
